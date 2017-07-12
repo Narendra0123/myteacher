@@ -3,7 +3,7 @@ package com.web.DwnUpCasting;
 public class ChildClass extends ParentClass{
 	
 	public void mc1(){
-		System.out.println("child class method");
+		System.out.println("child class method    ");
 	}
 	public void mc2(){
 		System.out.println("child class method2");
