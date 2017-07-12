@@ -11,6 +11,10 @@ public class ChildClass extends ParentClass{
 	public void mc2(){
 		System.out.println("child class method2    ");
 	}
+	
+	public void mc3(){
+		System.out.println("Child class method 3");
+	}
 
 	public static void main(String[] args) {
 		
