@@ -2,6 +2,8 @@ package com.web.DwnUpCasting;
 
 public class ChildClass extends ParentClass{
 	
+	int a=10;
+	
 	public void mc1(){
 		System.out.println("child class method");
 	}
